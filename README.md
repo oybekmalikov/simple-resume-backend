@@ -1,5 +1,24 @@
 # ⚙️ Simple Resume — Backend API & PDF Rendering Service
 
+<p align="left">
+  <a href="https://simple-resume-frontend.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Web_App-Visit_Website-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Web App" />
+  </a>
+  <a href="https://t.me/simpleresumebot" target="_blank">
+    <img src="https://img.shields.io/badge/🤖_Telegram_Bot-@simpleresumebot-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot" />
+  </a>
+  <a href="https://simple-resume-backend.onrender.com/api/health" target="_blank">
+    <img src="https://img.shields.io/badge/⚡_API_Health-Check_Status-10b981?style=for-the-badge&logo=render&logoColor=white" alt="API Status" />
+  </a>
+</p>
+
+### 🔗 Live Endpoints & Apps:
+- 🌐 **Web Sayt:** [https://simple-resume-frontend.vercel.app](https://simple-resume-frontend.vercel.app)
+- 🤖 **Telegram Bot:** [@simpleresumebot](https://t.me/simpleresumebot)
+- ⚙️ **Render Backend Base URL:** `https://simple-resume-backend.onrender.com`
+
+---
+
 Node.js, Express, and Puppeteer service providing high-resolution PDF generation, template registries, and AI integrations (Gemini).
 
 ---

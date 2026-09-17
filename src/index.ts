@@ -24,6 +24,10 @@ app.use('/api/import', importRouter);
 app.use('/api/docs', docsRouter);
 app.use('/api/cover-letter', coverLetterRouter);
 
+app.get('/health', (_req, res) => {
+  res.json({ status: 'ok', service: 'simple-resume-api', timestamp: new Date().toISOString() });
+});
+
 app.get('/api/health', (_req, res) => {
   res.json({ status: 'ok', service: 'simple-resume-api', timestamp: new Date().toISOString() });
 });
